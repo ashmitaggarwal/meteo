@@ -10,7 +10,7 @@ export const DEFAULT_METRICS = {
 
 export const FORECAST_CONFIG = {
   API_ENDPOINT: 'https://api.darksky.net/forecast/',
-  API_KEY: '9bb59ff3063ac4930fc96890570b0c6f'
+  API_KEY: '81902e4352d8af3a2fc09767e1a2d6cd'
 };
 
 export const CONFIG = {

@@ -1,6 +1,6 @@
 {
-  "name": "Mosum",
-  "short_name": "Mosum",
+  "name": "Météo",
+  "short_name": "Météo",
   "start_url": "index.html",
   "display": "standalone",
   "icons": [
